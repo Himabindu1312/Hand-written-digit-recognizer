@@ -10,5 +10,5 @@ The goal of this project is to classify images of handwritten digits (0-9) from 
 
 The MNIST dataset contains 60,000 training images and 10,000 test images of handwritten digits. Each image is 28x28 pixels.
 
-**##Results**
+## Results
 The scikit-learn KNN model achieved an accuracy of approximately 96.97% on the test set. The confusion matrix is printed to show the classification performance for each digit.
